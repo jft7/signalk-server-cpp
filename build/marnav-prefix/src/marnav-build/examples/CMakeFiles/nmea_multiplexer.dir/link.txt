@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/nmea_multiplexer.dir/nmea_multiplexer.cpp.o  -o nmea_multiplexer  ../src/libmarnav.a 

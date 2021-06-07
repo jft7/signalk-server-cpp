@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/benchmark_ais_message.dir/ais/Benchmark_ais_message.cpp.o  -o benchmark_ais_message  ../src/libmarnav.a ../local/lib/libbenchmark.a -lpthread 

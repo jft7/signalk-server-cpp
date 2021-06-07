@@ -1,0 +1,11 @@
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/libuv.dir
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/signalk_server_cpp.dir
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/variant.dir
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/json.dir
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/marnav.dir
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/edit_cache.dir
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/uWebSockets.dir
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/uvw.dir
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/spdlog.dir
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/serial.dir

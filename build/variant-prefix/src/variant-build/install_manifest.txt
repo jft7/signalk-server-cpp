@@ -1,0 +1,7 @@
+/home/pi/Development/CymBOX/cysignalk/build/external/lib/cmake/mpark_variant/mpark_variant-targets.cmake
+/home/pi/Development/CymBOX/cysignalk/build/external/include/mpark/variant.hpp
+/home/pi/Development/CymBOX/cysignalk/build/external/include/mpark/lib.hpp
+/home/pi/Development/CymBOX/cysignalk/build/external/include/mpark/in_place.hpp
+/home/pi/Development/CymBOX/cysignalk/build/external/include/mpark/config.hpp
+/home/pi/Development/CymBOX/cysignalk/build/external/lib/cmake/mpark_variant/mpark_variant-config.cmake
+/home/pi/Development/CymBOX/cysignalk/build/external/lib/cmake/mpark_variant/mpark_variant-config-version.cmake

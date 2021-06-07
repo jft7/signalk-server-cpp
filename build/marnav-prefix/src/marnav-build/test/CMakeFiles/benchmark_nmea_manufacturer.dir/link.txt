@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/benchmark_nmea_manufacturer.dir/nmea/Benchmark_nmea_manufacturer.cpp.o  -o benchmark_nmea_manufacturer  ../src/libmarnav.a ../local/lib/libbenchmark.a -lpthread 

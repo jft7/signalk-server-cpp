@@ -1,0 +1,8 @@
+/home/pi/Development/CymBOX/cysignalk/build/serial-prefix/src/serial-build/CMakeFiles/install/strip.dir
+/home/pi/Development/CymBOX/cysignalk/build/serial-prefix/src/serial-build/CMakeFiles/install.dir
+/home/pi/Development/CymBOX/cysignalk/build/serial-prefix/src/serial-build/CMakeFiles/list_install_components.dir
+/home/pi/Development/CymBOX/cysignalk/build/serial-prefix/src/serial-build/CMakeFiles/install/local.dir
+/home/pi/Development/CymBOX/cysignalk/build/serial-prefix/src/serial-build/CMakeFiles/rebuild_cache.dir
+/home/pi/Development/CymBOX/cysignalk/build/serial-prefix/src/serial-build/CMakeFiles/edit_cache.dir
+/home/pi/Development/CymBOX/cysignalk/build/serial-prefix/src/serial-build/CMakeFiles/serial_example.dir
+/home/pi/Development/CymBOX/cysignalk/build/serial-prefix/src/serial-build/CMakeFiles/serial.dir

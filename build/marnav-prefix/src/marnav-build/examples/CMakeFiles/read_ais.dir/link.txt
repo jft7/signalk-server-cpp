@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/read_ais.dir/read_ais.cpp.o  -o read_ais  ../src/libmarnav.a 

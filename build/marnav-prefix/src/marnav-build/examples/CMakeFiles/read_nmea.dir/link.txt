@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/read_nmea.dir/read_nmea.cpp.o  -o read_nmea  ../src/libmarnav.a 

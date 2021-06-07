@@ -1,0 +1,7 @@
+/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-build/CMakeFiles/install/strip.dir
+/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-build/CMakeFiles/install.dir
+/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-build/CMakeFiles/list_install_components.dir
+/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-build/CMakeFiles/install/local.dir
+/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-build/CMakeFiles/rebuild_cache.dir
+/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-build/CMakeFiles/edit_cache.dir
+/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-build/CMakeFiles/uvw_aob.dir

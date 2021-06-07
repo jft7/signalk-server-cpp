@@ -1,0 +1,13 @@
+# Target labels
+ marnav
+# Source files and their labels
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/marnav
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/marnav.rule
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/marnav-complete.rule
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-stamp/marnav-install.rule
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-stamp/marnav-mkdir.rule
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-stamp/marnav-download.rule
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-stamp/marnav-update.rule
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-stamp/marnav-patch.rule
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-stamp/marnav-configure.rule
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-stamp/marnav-build.rule

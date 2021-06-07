@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/benchmark_nmea_sentence.dir/nmea/Benchmark_nmea_sentence.cpp.o  -o benchmark_nmea_sentence  ../src/libmarnav.a ../local/lib/libbenchmark.a -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/test-ais-sample.dir/test-ais-sample.cpp.o  -o test-ais-sample  ../src/libmarnav.a 

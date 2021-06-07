@@ -1,0 +1,22 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/extern/gmock-1.7.0/custom_main.cpp" "/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/gmock/src/extern_gmock-build/CMakeFiles/gmock.dir/custom_main.cpp.o"
+  "/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/extern/gmock-1.7.0/gmock-gtest-all.cc" "/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/gmock/src/extern_gmock-build/CMakeFiles/gmock.dir/gmock-gtest-all.cc.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/extern/gmock-1.7.0"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

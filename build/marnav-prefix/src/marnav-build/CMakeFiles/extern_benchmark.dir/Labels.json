@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/CMakeFiles/extern_benchmark"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/CMakeFiles/extern_benchmark.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/CMakeFiles/extern_benchmark-complete.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-stamp/extern_benchmark-install.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-stamp/extern_benchmark-mkdir.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-stamp/extern_benchmark-download.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-stamp/extern_benchmark-update.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-stamp/extern_benchmark-patch.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-stamp/extern_benchmark-configure.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-stamp/extern_benchmark-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"extern_benchmark"
+		],
+		"name" : "extern_benchmark"
+	}
+}

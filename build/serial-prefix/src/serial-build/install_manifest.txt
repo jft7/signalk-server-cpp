@@ -1,0 +1,3 @@
+/home/pi/Development/CymBOX/cysignalk/build/external/lib/libserial.a
+/home/pi/Development/CymBOX/cysignalk/build/external/include/serial/serial.h
+/home/pi/Development/CymBOX/cysignalk/build/external/include/serial/v8stdint.h

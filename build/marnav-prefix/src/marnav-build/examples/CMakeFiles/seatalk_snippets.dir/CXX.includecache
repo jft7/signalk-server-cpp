@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/examples/seatalk_snippets.cpp
+marnav/seatalk/seatalk.hpp
+-
+marnav/seatalk/message_00.hpp
+-
+
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/src/marnav/seatalk/message.hpp
+vector
+-
+functional
+-
+typeinfo
+-
+marnav/utils/unique.hpp
+-
+
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/src/marnav/seatalk/message_00.hpp
+marnav/seatalk/message.hpp
+-
+
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/src/marnav/seatalk/seatalk.hpp
+marnav/seatalk/message.hpp
+-
+
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/src/marnav/utils/unique.hpp
+memory
+-
+

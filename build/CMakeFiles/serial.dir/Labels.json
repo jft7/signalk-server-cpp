@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/serial"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/serial.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/serial-complete.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/serial-prefix/src/serial-stamp/serial-install.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/serial-prefix/src/serial-stamp/serial-mkdir.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/serial-prefix/src/serial-stamp/serial-download.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/serial-prefix/src/serial-stamp/serial-update.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/serial-prefix/src/serial-stamp/serial-patch.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/serial-prefix/src/serial-stamp/serial-configure.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/serial-prefix/src/serial-stamp/serial-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"serial"
+		],
+		"name" : "serial"
+	}
+}

@@ -1,0 +1,131 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "signalk_server_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-json-Debug-68c3aee4dac6f96d4406.json",
+					"name" : "json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "libuv::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libuv-Debug-33fc371b3c54ac4478b9.json",
+					"name" : "libuv",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "marnav::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-marnav-Debug-0ff0f0ca8f973e7a6a60.json",
+					"name" : "marnav",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial-Debug-59660c5fb2947f5c8991.json",
+					"name" : "serial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "signalk_server_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-signalk_server_cpp-Debug-4a909527269b2c7328bb.json",
+					"name" : "signalk_server_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "spdlog::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-spdlog-Debug-c19102a2596d563b648b.json",
+					"name" : "spdlog",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uWebSockets::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uWebSockets-Debug-231c5009b43b6a317d2b.json",
+					"name" : "uWebSockets",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uvw::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uvw-Debug-55de560dbc8971085055.json",
+					"name" : "uvw",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "variant::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-variant-Debug-608bae974ce549992767.json",
+					"name" : "variant",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/pi/Development/CymBOX/cysignalk/build",
+		"source" : "/home/pi/Development/CymBOX/cysignalk"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

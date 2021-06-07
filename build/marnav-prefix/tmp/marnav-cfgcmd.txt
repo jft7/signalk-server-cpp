@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DENABLE_STATIC=OFF;-DCMAKE_BUILD_TYPE=Release;-DENABLE_STATIC=ON;-DCMAKE_INSTALL_PREFIX=/home/pi/Development/CymBOX/cysignalk/build/external;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

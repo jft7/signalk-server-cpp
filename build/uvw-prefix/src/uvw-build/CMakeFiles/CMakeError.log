@@ -1,0 +1,20 @@
+Performing C++ SOURCE FILE Test HAS_LIBCPP failed with the following output:
+Change Dir: /home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f33be/fast && make[4] : on entre dans le répertoire « /home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-build/CMakeFiles/CMakeTmp »
+/usr/bin/make -f CMakeFiles/cmTC_f33be.dir/build.make CMakeFiles/cmTC_f33be.dir/build
+make[5] : on entre dans le répertoire « /home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-build/CMakeFiles/CMakeTmp »
+Building CXX object CMakeFiles/cmTC_f33be.dir/src.cxx.o
+/usr/bin/c++    -DHAS_LIBCPP  -stdlib=libc++   -o CMakeFiles/cmTC_f33be.dir/src.cxx.o -c /home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option ‘-stdlib=libc++’
+make[5]: *** [CMakeFiles/cmTC_f33be.dir/build.make:66: CMakeFiles/cmTC_f33be.dir/src.cxx.o] Error 1
+make[5] : on quitte le répertoire « /home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-build/CMakeFiles/CMakeTmp »
+make[4]: *** [Makefile:121: cmTC_f33be/fast] Error 2
+make[4] : on quitte le répertoire « /home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-build/CMakeFiles/CMakeTmp »
+
+
+Source file was:
+
+        #include<type_traits>
+        int main() { return std::is_same_v<int, char>; }
+    

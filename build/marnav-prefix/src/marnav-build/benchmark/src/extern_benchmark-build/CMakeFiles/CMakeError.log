@@ -1,0 +1,116 @@
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WSHORTEN_64_TO_32 failed with the following output:
+Change Dir: /home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_307ac/fast && make[7]: Entering directory '/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_307ac.dir/build.make CMakeFiles/cmTC_307ac.dir/build
+make[8]: Entering directory '/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_307ac.dir/src.cxx.o
+/usr/bin/c++    -std=c++11 -Wall -Wextra -Wshadow -pedantic -pedantic-errors -DHAVE_CXX_FLAG_WSHORTEN_64_TO_32  -Wshorten-64-to-32   -Wshorten-64-to-32 -o CMakeFiles/cmTC_307ac.dir/src.cxx.o -c /home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wshorten-64-to-32'
+c++: error: unrecognized command line option '-Wshorten-64-to-32'
+make[8]: *** [CMakeFiles/cmTC_307ac.dir/build.make:66: CMakeFiles/cmTC_307ac.dir/src.cxx.o] Error 1
+make[8]: Leaving directory '/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp'
+make[7]: *** [Makefile:121: cmTC_307ac/fast] Error 2
+make[7]: Leaving directory '/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WD654 failed with the following output:
+Change Dir: /home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_8baf8/fast && make[7]: Entering directory '/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_8baf8.dir/build.make CMakeFiles/cmTC_8baf8.dir/build
+make[8]: Entering directory '/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_8baf8.dir/src.cxx.o
+/usr/bin/c++    -std=c++11 -Wall -Wextra -Wshadow -pedantic -pedantic-errors -Wfloat-equal -fstrict-aliasing -Wzero-as-null-pointer-constant -Wstrict-aliasing -DHAVE_CXX_FLAG_WD654  -wd654   -wd654 -o CMakeFiles/cmTC_8baf8.dir/src.cxx.o -c /home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-wd654'
+c++: error: unrecognized command line option '-wd654'
+make[8]: *** [CMakeFiles/cmTC_8baf8.dir/build.make:66: CMakeFiles/cmTC_8baf8.dir/src.cxx.o] Error 1
+make[8]: Leaving directory '/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp'
+make[7]: *** [Makefile:121: cmTC_8baf8/fast] Error 2
+make[7]: Leaving directory '/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test HAVE_CXX_FLAG_WTHREAD_SAFETY failed with the following output:
+Change Dir: /home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_968d3/fast && make[7]: Entering directory '/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp'
+/usr/bin/make -f CMakeFiles/cmTC_968d3.dir/build.make CMakeFiles/cmTC_968d3.dir/build
+make[8]: Entering directory '/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_968d3.dir/src.cxx.o
+/usr/bin/c++    -std=c++11 -Wall -Wextra -Wshadow -pedantic -pedantic-errors -Wfloat-equal -fstrict-aliasing -Wzero-as-null-pointer-constant -Wstrict-aliasing -DHAVE_CXX_FLAG_WTHREAD_SAFETY  -Wthread-safety   -Wthread-safety -o CMakeFiles/cmTC_968d3.dir/src.cxx.o -c /home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wthread-safety'; did you mean '-fthread-jumps'?
+c++: error: unrecognized command line option '-Wthread-safety'; did you mean '-fthread-jumps'?
+make[8]: *** [CMakeFiles/cmTC_968d3.dir/build.make:66: CMakeFiles/cmTC_968d3.dir/src.cxx.o] Error 1
+make[8]: Leaving directory '/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp'
+make[7]: *** [Makefile:121: cmTC_968d3/fast] Error 2
+make[7]: Leaving directory '/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp'
+
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: /home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e0bb6/fast && make[7] : on entre dans le répertoire « /home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp »
+/usr/bin/make -f CMakeFiles/cmTC_e0bb6.dir/build.make CMakeFiles/cmTC_e0bb6.dir/build
+make[8] : on entre dans le répertoire « /home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp »
+Building C object CMakeFiles/cmTC_e0bb6.dir/src.c.o
+/usr/bin/cc   -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_e0bb6.dir/src.c.o   -c /home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_e0bb6
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e0bb6.dir/link.txt --verbose=1
+/usr/bin/cc  -DCMAKE_HAVE_LIBC_PTHREAD    -rdynamic CMakeFiles/cmTC_e0bb6.dir/src.c.o  -o cmTC_e0bb6 
+/usr/bin/ld: CMakeFiles/cmTC_e0bb6.dir/src.c.o: in function `main':
+src.c:(.text+0x40): undefined reference to `pthread_create'
+/usr/bin/ld: src.c:(.text+0x4c): undefined reference to `pthread_detach'
+/usr/bin/ld: src.c:(.text+0x5c): undefined reference to `pthread_join'
+collect2: error: ld returned 1 exit status
+make[8]: *** [CMakeFiles/cmTC_e0bb6.dir/build.make:87: cmTC_e0bb6] Error 1
+make[8] : on quitte le répertoire « /home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp »
+make[7]: *** [Makefile:121: cmTC_e0bb6/fast] Error 2
+make[7] : on quitte le répertoire « /home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp »
+
+
+Source file was:
+#include <pthread.h>
+
+void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_dc8c2/fast && make[7] : on entre dans le répertoire « /home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp »
+/usr/bin/make -f CMakeFiles/cmTC_dc8c2.dir/build.make CMakeFiles/cmTC_dc8c2.dir/build
+make[8] : on entre dans le répertoire « /home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp »
+Building C object CMakeFiles/cmTC_dc8c2.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_dc8c2.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.16/Modules/CheckFunctionExists.c
+Linking C executable cmTC_dc8c2
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_dc8c2.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_dc8c2.dir/CheckFunctionExists.c.o  -o cmTC_dc8c2  -lpthreads 
+/usr/bin/ld : ne peut trouver -lpthreads
+collect2: error: ld returned 1 exit status
+make[8]: *** [CMakeFiles/cmTC_dc8c2.dir/build.make:87: cmTC_dc8c2] Error 1
+make[8] : on quitte le répertoire « /home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp »
+make[7]: *** [Makefile:121: cmTC_dc8c2/fast] Error 2
+make[7] : on quitte le répertoire « /home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/benchmark/src/extern_benchmark-build/CMakeFiles/CMakeTmp »
+
+
+

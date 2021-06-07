@@ -1,0 +1,4 @@
+/home/pi/Development/CymBOX/cysignalk/build/external/include/nlohmann/json.hpp
+/home/pi/Development/CymBOX/cysignalk/build/external/lib/cmake/nlohmann_json/nlohmann_jsonConfig.cmake
+/home/pi/Development/CymBOX/cysignalk/build/external/lib/cmake/nlohmann_json/nlohmann_jsonConfigVersion.cmake
+/home/pi/Development/CymBOX/cysignalk/build/external/lib/cmake/nlohmann_json/nlohmann_jsonTargets.cmake

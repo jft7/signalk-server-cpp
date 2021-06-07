@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/src/marnav/nmea/manufacturer.hpp
+string
+-
+vector
+-
+
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/test/nmea/Benchmark_nmea_manufacturer.cpp
+benchmark/benchmark.h
+-
+marnav/nmea/manufacturer.hpp
+-
+
+local/include/benchmark/benchmark.h
+stdint.h
+-
+cassert
+-
+cstddef
+-
+iosfwd
+-
+string
+-
+vector
+-
+map
+-
+set
+-
+type_traits
+-
+initializer_list
+-
+utility
+-
+intrin.h
+-
+

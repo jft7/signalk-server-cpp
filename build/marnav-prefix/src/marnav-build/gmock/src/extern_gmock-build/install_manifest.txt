@@ -1,0 +1,3 @@
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/local/lib/libgmock.a
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/local/include/gmock/gmock.h
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/local/include/gtest/gtest.h

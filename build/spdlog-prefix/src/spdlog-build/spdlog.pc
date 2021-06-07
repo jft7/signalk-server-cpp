@@ -1,0 +1,6 @@
+prefix=/home/pi/Development/CymBOX/cysignalk/build/external
+includedir=${prefix}/include
+
+Name: spdlog
+Description: Super fast C++ logging library. 
+Version: 0.17.0

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/create_nmea_from_ais_2.dir/create_nmea_from_ais_2.cpp.o  -o create_nmea_from_ais_2  ../src/libmarnav.a 

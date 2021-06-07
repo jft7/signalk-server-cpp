@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/examples/bitset_iterate.cpp
+iostream
+-
+marnav/utils/bitset.hpp
+-
+
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/src/marnav/utils/bitset.hpp
+limits
+-
+stdexcept
+-
+type_traits
+-
+vector
+-
+cassert
+-
+

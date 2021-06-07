@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/benchmark_nmea_split.dir/nmea/Benchmark_nmea_split.cpp.o  -o benchmark_nmea_split  ../src/libmarnav.a ../local/lib/libbenchmark.a -lpthread 

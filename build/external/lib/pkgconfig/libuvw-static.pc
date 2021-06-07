@@ -1,0 +1,12 @@
+prefix=/home/pi/Development/CymBOX/cysignalk/build/external
+exec_prefix=${prefix}
+libdir=/home/pi/Development/CymBOX/cysignalk/build/external/lib
+includedir=/home/pi/Development/CymBOX/cysignalk/build/external/include
+
+Name: libuvw
+Version: 
+Description: Header-only, event based, tiny and easy to use libuv wrapper in modern C++
+URL: https://github.com/skypjack/uvw
+
+Libs: -L${libdir} -luvw-static 
+Cflags: -I${includedir}

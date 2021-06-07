@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/read_seatalk.dir/read_seatalk.cpp.o  -o read_seatalk  ../src/libmarnav.a 

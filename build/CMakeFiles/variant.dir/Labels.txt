@@ -1,0 +1,13 @@
+# Target labels
+ variant
+# Source files and their labels
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/variant
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/variant.rule
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/variant-complete.rule
+/home/pi/Development/CymBOX/cysignalk/build/variant-prefix/src/variant-stamp/variant-install.rule
+/home/pi/Development/CymBOX/cysignalk/build/variant-prefix/src/variant-stamp/variant-mkdir.rule
+/home/pi/Development/CymBOX/cysignalk/build/variant-prefix/src/variant-stamp/variant-download.rule
+/home/pi/Development/CymBOX/cysignalk/build/variant-prefix/src/variant-stamp/variant-update.rule
+/home/pi/Development/CymBOX/cysignalk/build/variant-prefix/src/variant-stamp/variant-patch.rule
+/home/pi/Development/CymBOX/cysignalk/build/variant-prefix/src/variant-stamp/variant-configure.rule
+/home/pi/Development/CymBOX/cysignalk/build/variant-prefix/src/variant-stamp/variant-build.rule

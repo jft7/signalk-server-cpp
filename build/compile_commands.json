@@ -1,0 +1,122 @@
+[
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/main.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/main.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/main.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/model/SignalKModel.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/model/SignalKModel.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/model/SignalKModel.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/providers/DataProvider.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/providers/DataProvider.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/providers/DataProvider.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/servers/WebDataServer.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/servers/WebDataServer.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/servers/WebDataServer.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/providers/WebSocketClientDataProvider.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/providers/WebSocketClientDataProvider.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/providers/WebSocketClientDataProvider.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/providers/NMEA0183DataProvider.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/providers/NMEA0183DataProvider.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/providers/NMEA0183DataProvider.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/providers/SignalKDataProvider.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/providers/SignalKDataProvider.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/providers/SignalKDataProvider.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/providers/FileNMEA0183DataProvider.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/providers/FileNMEA0183DataProvider.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/providers/FileNMEA0183DataProvider.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/providers/DataProviders.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/providers/DataProviders.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/providers/DataProviders.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/servers/DataServer.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/servers/DataServer.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/servers/DataServer.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/servers/SignalKDataServer.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/servers/SignalKDataServer.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/servers/SignalKDataServer.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/model/UpdateBus.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/model/UpdateBus.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/model/UpdateBus.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/providers/SerialNMEA0183DataProvider.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/providers/SerialNMEA0183DataProvider.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/providers/SerialNMEA0183DataProvider.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/model/Node.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/model/Node.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/model/Node.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/servers/TcpIpSignalKDataServer.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/servers/TcpIpSignalKDataServer.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/servers/TcpIpSignalKDataServer.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/SignalKServer.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/SignalKServer.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/SignalKServer.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/DataThread.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/DataThread.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/DataThread.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/servers/DataServers.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/servers/DataServers.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/servers/DataServers.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/servers/TcpIpNMEA0183DataServer.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/servers/TcpIpNMEA0183DataServer.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/servers/TcpIpNMEA0183DataServer.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/servers/NMEA0183DataServer.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/servers/NMEA0183DataServer.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/servers/NMEA0183DataServer.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/DataThreads.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/DataThreads.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/DataThreads.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/model/Subscription.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/model/Subscription.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/model/Subscription.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/model/Subscriptions.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/model/Subscriptions.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/model/Subscriptions.cpp"
+},
+{
+  "directory": "/home/pi/Development/CymBOX/cysignalk/build",
+  "command": "/usr/bin/g++-8   -isystem /home/pi/Development/CymBOX/cysignalk/build/external/include  -g   -std=gnu++14 -o CMakeFiles/signalk_server_cpp.dir/src/core/utils/String.cpp.o -c /home/pi/Development/CymBOX/cysignalk/src/core/utils/String.cpp",
+  "file": "/home/pi/Development/CymBOX/cysignalk/src/core/utils/String.cpp"
+}
+]

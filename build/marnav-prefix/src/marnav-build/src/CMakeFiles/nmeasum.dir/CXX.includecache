@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/src/marnav/nmea/checksum.hpp
+string
+-
+stdexcept
+-
+algorithm
+-
+
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/src/nmeasum.cpp
+cstdio
+-
+cstdlib
+-
+cstdint
+-
+cstring
+-
+algorithm
+-
+marnav/nmea/checksum.hpp
+-
+

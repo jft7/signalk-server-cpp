@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/examples/select.cpp
+memory
+-
+vector
+-
+iostream
+-
+unistd.h
+-
+fcntl.h
+-
+sys/stat.h
+-
+sys/types.h
+-
+marnav/io/device.hpp
+-
+marnav/io/selectable.hpp
+-
+
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/src/marnav/io/device.hpp
+cstdint
+-
+
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/src/marnav/io/selectable.hpp
+

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/uvw"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/uvw.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/uvw-complete.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-stamp/uvw-install.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-stamp/uvw-mkdir.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-stamp/uvw-download.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-stamp/uvw-update.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-stamp/uvw-patch.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-stamp/uvw-configure.rule"
+		},
+		{
+			"file" : "/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-stamp/uvw-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"uvw"
+		],
+		"name" : "uvw"
+	}
+}

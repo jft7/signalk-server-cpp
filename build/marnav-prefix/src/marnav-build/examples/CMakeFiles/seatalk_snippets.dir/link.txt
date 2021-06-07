@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/seatalk_snippets.dir/seatalk_snippets.cpp.o  -o seatalk_snippets  ../src/libmarnav.a 

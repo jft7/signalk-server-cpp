@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/parse_ais.dir/parse_ais.cpp.o  -o parse_ais  ../src/libmarnav.a 

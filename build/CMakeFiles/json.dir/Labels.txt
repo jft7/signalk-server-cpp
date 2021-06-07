@@ -1,0 +1,13 @@
+# Target labels
+ json
+# Source files and their labels
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/json
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/json.rule
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/json-complete.rule
+/home/pi/Development/CymBOX/cysignalk/build/json-prefix/src/json-stamp/json-install.rule
+/home/pi/Development/CymBOX/cysignalk/build/json-prefix/src/json-stamp/json-mkdir.rule
+/home/pi/Development/CymBOX/cysignalk/build/json-prefix/src/json-stamp/json-download.rule
+/home/pi/Development/CymBOX/cysignalk/build/json-prefix/src/json-stamp/json-update.rule
+/home/pi/Development/CymBOX/cysignalk/build/json-prefix/src/json-stamp/json-patch.rule
+/home/pi/Development/CymBOX/cysignalk/build/json-prefix/src/json-stamp/json-configure.rule
+/home/pi/Development/CymBOX/cysignalk/build/json-prefix/src/json-stamp/json-build.rule

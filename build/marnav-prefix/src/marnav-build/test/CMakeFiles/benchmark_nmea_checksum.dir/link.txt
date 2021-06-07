@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/benchmark_nmea_checksum.dir/nmea/Benchmark_nmea_checksum.cpp.o  -o benchmark_nmea_checksum  ../src/libmarnav.a ../local/lib/libbenchmark.a -lpthread 

@@ -1,0 +1,13 @@
+# Target labels
+ uvw
+# Source files and their labels
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/uvw
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/uvw.rule
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/uvw-complete.rule
+/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-stamp/uvw-install.rule
+/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-stamp/uvw-mkdir.rule
+/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-stamp/uvw-download.rule
+/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-stamp/uvw-update.rule
+/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-stamp/uvw-patch.rule
+/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-stamp/uvw-configure.rule
+/home/pi/Development/CymBOX/cysignalk/build/uvw-prefix/src/uvw-stamp/uvw-build.rule

@@ -1,0 +1,13 @@
+# Target labels
+ extern_gmock
+# Source files and their labels
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/CMakeFiles/extern_gmock
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/CMakeFiles/extern_gmock.rule
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/CMakeFiles/extern_gmock-complete.rule
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/gmock/src/extern_gmock-stamp/extern_gmock-install.rule
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/gmock/src/extern_gmock-stamp/extern_gmock-mkdir.rule
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/gmock/src/extern_gmock-stamp/extern_gmock-download.rule
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/gmock/src/extern_gmock-stamp/extern_gmock-update.rule
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/gmock/src/extern_gmock-stamp/extern_gmock-patch.rule
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/gmock/src/extern_gmock-stamp/extern_gmock-configure.rule
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav-build/gmock/src/extern_gmock-stamp/extern_gmock-build.rule

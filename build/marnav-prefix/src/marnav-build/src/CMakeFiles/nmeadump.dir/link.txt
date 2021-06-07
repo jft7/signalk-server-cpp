@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/nmeadump.dir/nmeadump.cpp.o  -o nmeadump  libmarnav.a 

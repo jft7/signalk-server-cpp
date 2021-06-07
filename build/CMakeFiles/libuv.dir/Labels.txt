@@ -1,0 +1,13 @@
+# Target labels
+ libuv
+# Source files and their labels
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/libuv
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/libuv.rule
+/home/pi/Development/CymBOX/cysignalk/build/CMakeFiles/libuv-complete.rule
+/home/pi/Development/CymBOX/cysignalk/build/libuv-prefix/src/libuv-stamp/libuv-install.rule
+/home/pi/Development/CymBOX/cysignalk/build/libuv-prefix/src/libuv-stamp/libuv-mkdir.rule
+/home/pi/Development/CymBOX/cysignalk/build/libuv-prefix/src/libuv-stamp/libuv-download.rule
+/home/pi/Development/CymBOX/cysignalk/build/libuv-prefix/src/libuv-stamp/libuv-update.rule
+/home/pi/Development/CymBOX/cysignalk/build/libuv-prefix/src/libuv-stamp/libuv-patch.rule
+/home/pi/Development/CymBOX/cysignalk/build/libuv-prefix/src/libuv-stamp/libuv-configure.rule
+/home/pi/Development/CymBOX/cysignalk/build/libuv-prefix/src/libuv-stamp/libuv-build.rule

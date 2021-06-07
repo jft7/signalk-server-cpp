@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/extern/benchmark-1.2.0/include/benchmark/benchmark.h
+stdint.h
+-
+cassert
+-
+cstddef
+-
+iosfwd
+-
+string
+-
+vector
+-
+map
+-
+set
+-
+type_traits
+-
+initializer_list
+-
+utility
+-
+intrin.h
+-
+
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/extern/benchmark-1.2.0/test/cxx03_test.cc
+cassert
+-
+cstddef
+-
+benchmark/benchmark.h
+/home/pi/Development/CymBOX/cysignalk/build/marnav-prefix/src/marnav/extern/benchmark-1.2.0/test/benchmark/benchmark.h
+

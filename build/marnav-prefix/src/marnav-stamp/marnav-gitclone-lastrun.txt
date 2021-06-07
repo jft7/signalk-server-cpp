@@ -1,0 +1,3 @@
+repository='https://github.com/raffmont/marnav.git'
+module=''
+tag='origin'

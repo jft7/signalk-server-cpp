@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/test-nmea-sample.dir/test-nmea-sample.cpp.o  -o test-nmea-sample  ../src/libmarnav.a 
